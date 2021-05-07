@@ -23,5 +23,6 @@
 		align-items: center;
 		height: calc(100vh - 20px);
 		padding: 20px;
+		background-color: #000;
 	}
 </style>
