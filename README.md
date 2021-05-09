@@ -20,6 +20,7 @@
 - HTML
 - Javascript
 - Vue.js
+- SCSS
 
 ---
 
