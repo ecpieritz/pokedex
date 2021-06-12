@@ -27,7 +27,7 @@
 
 ## 🚀 How to execute the project
 #### Clone the repository
-git clone https://github.com/EPieritz/pokedex.git
+git clone https://github.com/ecpieritz/pokedex.git
 
 #### Enter directory
 `cd complaint-form`
