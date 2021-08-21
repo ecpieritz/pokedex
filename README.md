@@ -52,4 +52,4 @@ git clone https://github.com/ecpieritz/pokedex.git
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ---
-Developed with 💙 by Emilyn C. Pieritz
+<p align = "right">Developed with 💙 by Emilyn C. Pieritz</p>
