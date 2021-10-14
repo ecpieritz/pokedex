@@ -11,7 +11,7 @@
 ---
 
 ## 📖 About
-<p>Pokedex created with Vue.js taught by Rafael Maia Chieregatto.</p>
+<p>Pokedex created with Vue.js.</p>
 
 ---
 
