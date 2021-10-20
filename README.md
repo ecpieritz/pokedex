@@ -2,10 +2,9 @@
 
 ## 🖥 Preview
 <p align = "center">
-   <img src = "https://github.com/ecpieritz/pokedex/blob/main/public/img/pokedex-print-01.jpg?raw=true" width = "700">
-</p>
-<p align = "center">
-   <img src = "https://github.com/ecpieritz/pokedex/blob/main/public/img/pokedex-print-02.jpg?raw=true" width = "700">
+  <img src = "https://github.com/ecpieritz/pokedex/blob/main/public/img/pokedex-print-01.jpg?raw=true" width = "700" height = "auto">
+  <img src = "https://github.com/ecpieritz/pokedex/blob/main/public/img/pokedex-print-02.jpg?raw=true" width = "350" height = "auto">
+  <img src = "https://github.com/ecpieritz/pokedex/blob/main/public/img/pokedex-print-03.jpg?raw=true" width = "350" height = "auto">
 </p>
 
 ---
